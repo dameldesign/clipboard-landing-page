@@ -421,10 +421,12 @@ footer {
   .copy-text h1 {
     width: 400px;
     line-height: 1.4;
+    margin: auto;
   }
   .copy-text p {
     width: 300px;
     line-height: 1.4;
+    margin: auto;
   }
 
 
