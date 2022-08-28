@@ -284,13 +284,7 @@ footer {
   transform: scale(1.3);
 }
 
-@media screen and (max-width: 920px) {
-}
-
 @media screen and (max-width: 430px) {
-    p {
-        /* max-width: 300px; */
-    }
     h1 {
         font-weight: 600;
         font-size: var(--main-text);
@@ -395,10 +389,6 @@ footer {
   .formatz p{
     max-width: 283px;
   }
-  /* .copy-text {
-    width: 300px;
-    text-align: center;
-  } */
   .access-text {
     text-align: center;
     max-width: 300px;
