@@ -418,6 +418,10 @@ footer {
   .content-three h4 {
     margin: 0;
   }
+  .copy-text {
+    width: 400px;
+    line-height: 1.4;
+  }
 
 
 }
